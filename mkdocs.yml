@@ -1,0 +1,9 @@
+site_name: Test Site
+theme:
+  name: material
+  palette:
+    primary: custom
+    accent: green
+
+nav:
+  index.md
