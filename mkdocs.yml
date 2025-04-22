@@ -5,5 +5,5 @@ theme:
     primary: custom
     accent: green
 
-nav:
-  - Home: index.md
+#nav:
+#  - Home: index.md
