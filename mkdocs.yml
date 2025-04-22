@@ -5,5 +5,7 @@ theme:
     primary: custom
     accent: green
 
-#nav:
-#  - Home: index.md
+nav:
+  - Home: index.md
+    - Topic One: test-folder/topic1.md
+    - Topic Two: test-folder/topic2.md
