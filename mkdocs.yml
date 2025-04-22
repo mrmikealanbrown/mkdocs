@@ -6,4 +6,4 @@ theme:
     accent: green
 
 nav:
-  index.md
+  - Home: index.md
