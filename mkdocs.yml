@@ -6,8 +6,8 @@ theme:
     accent: green
 markdown_extensions:
   - pymdownx.snippets:
-    auto_append:
-      - includes/glossary.md
+    auto_append: ["glossary.md"]
+    base_path: ["includes"]
 watch:
   - includes
 nav:
