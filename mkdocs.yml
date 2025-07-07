@@ -5,7 +5,9 @@ theme:
     primary: custom
     accent: green
 markdown_extensions:
-  pymdownx.snippets:
+  - abbr
+  - attr_list
+  - pymdownx.snippets:
     base_path: includes
     auto_append:
       - glossary.md
