@@ -5,7 +5,7 @@ theme:
     primary: custom
     accent: green
 markdown_extensions:
-  - pymdownx_snippets:
+  - pymdownx.snippets:
     auto_append:
       - includes/glossary.md
 watch:
