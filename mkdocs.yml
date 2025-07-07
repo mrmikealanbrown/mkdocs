@@ -6,10 +6,10 @@ theme:
     accent: green
 markdown_extensions:
   - pymdownx.snippets:
+    base_path: includes
     auto_append:
       - glossary.md
-    base_path:
-      - includes
+    
 watch:
   - includes
 nav:
