@@ -4,7 +4,12 @@ theme:
   palette:
     primary: custom
     accent: green
-
+markdown_extensions:
+  - pymdownx_snippets:
+    auto_append:
+      - includes/glossary.md
+watch:
+  - includes
 nav:
   - Home: index.md
   - Test Folder:
