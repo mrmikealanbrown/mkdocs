@@ -15,6 +15,7 @@ watch:
   - includes
 nav:
   - Home: index.md
+  - Test: test.html
   - Test Folder:
     - Topic One: test-folder/topic1.md
     - Topic Two: test-folder/topic2.md
